@@ -120,6 +120,7 @@ GEM
     rake (10.4.2)
     redis (3.2.1)
     sass (3.4.18)
+    spring (1.3.6)
     sprockets-rails (3.0.0.beta2)
       actionpack (>= 4.0)
       activesupport (>= 4.0)
@@ -139,6 +140,7 @@ DEPENDENCIES
   rails (= 5.0.0.alpha)!
   redis
   sass-rails!
+  spring
   sprockets!
   sprockets-rails (= 3.0.0.beta2)
   sqlite3
